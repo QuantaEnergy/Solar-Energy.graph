@@ -1,0 +1,1 @@
+- [Analytical Design and Hybrid Techno-Economic Assessment of Grid-Connected PV System for Sustainable Development](https://www.mdpi.com/2227-9717/13/11/3412)
